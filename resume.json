@@ -1,0 +1,796 @@
+{
+    "attrs": {
+        "dir": "ltr", 
+        "lang": "en_US", 
+        "xmlns": "//w3.org/1999/xhtml"
+    }, 
+    "content": [
+        {
+            "content": [
+                {
+                    "content": {
+                        "text": "Kenny Cason's Resume - 2013"
+                    }, 
+                    "type": "title"
+                }, 
+                {
+                    "attrs": {
+                        "content": "en-us", 
+                        "http-equiv": "Content-Language"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "text/html; charset=UTF-8", 
+                        "http-equiv": "Content-Type"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "Kenny Cason Resume", 
+                        "name": "description"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "Kenny Cason Resume", 
+                        "name": "keywords"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "TTAGG Inc.", 
+                        "name": "Author"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "Copyright (c) 2013 Kenny Cason", 
+                        "name": "Copyright"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "General", 
+                        "name": "Rating"
+                    }, 
+                    "type": "meta"
+                }, 
+                {
+                    "attrs": {
+                        "content": "Living Document", 
+                        "name": "doc-class"
+                    }, 
+                    "type": "meta"
+                }
+            ], 
+            "type": "head"
+        }, 
+        {
+            "attrs": {
+                "type": "text/css"
+            }, 
+            "content": {
+                "text": "\r\n\r\n        body {\r\n            background-color: #f9f9f9;\r\n            font-family: arial, Helvetica, sans-serif;\r\n        }\r\n\r\n        a:link,a:visited,a:active,a:hover {\r\n            text-decoration: none;\r\n            color: #333;\r\n            border: none;\r\n        }\r\n\r\n        img {\r\n            border: none;\r\n        }\r\n\r\n        .wrapper {\r\n            width:960px;\r\n            margin-left:auto;\r\n            margin-right:auto;\r\n        }\r\n        .header {\r\n            float:left;\r\n            width:100%; \r\n            height: 140px;\r\n        }\r\n\r\n        .header .picture {\r\n            float:left;\r\n            height:100%;\r\n            width: 140px;\r\n        }\r\n        \r\n        .header .picture img {\r\n            margin:5px;\r\n        }\r\n\r\n        .header .bio {\r\n            float: left;\r\n            width: 400px;\r\n            height:100%;\r\n        }\r\n\r\n        .header .bio .name {\r\n            position:relative;\r\n            top:5px;\r\n            left:5px;\r\n            font-size:30px;\r\n        }\r\n        \r\n        .header .bio .title,\r\n        .header .bio .phone {\r\n            position:relative;\r\n            top:5px;\r\n            left:5px;\r\n            font-size:20px;\r\n        }\r\n\r\n        .header .bio .address {\r\n            position:relative;\r\n            top:12px;\r\n            left:5px;\r\n            font-size:16px;\r\n        }\r\n        \r\n        .header .social {\r\n            float: left;\r\n            height:100%;\r\n            width: 420px;\r\n        }\r\n        \r\n        .header .social .social-item {\r\n            margin-top:2px;\r\n            margin-right:5px;\r\n            width:100%;\r\n            float:right;\r\n            text-align:right;\r\n            font-size:16px;\r\n        }\r\n        \r\n        .header .social .social-item .text {\r\n            float:right;\r\n            margin-top:0px;\r\n            margin-right:5px;\r\n        }\r\n        \r\n        .header .social .social-item img {\r\n            float:right;\r\n\t    width:21px;\r\n        }  \r\n        \r\n        .section-header {\r\n            float:left;\r\n            display:block;\r\n            width:100%;\r\n            height:40px;\r\n            background: #87e0fd;  /*Old browsers */\r\n            background-image: -webkit-linear-gradient(top, red 0%, blue 100%);\r\n            background: -moz-linear-gradient(-45deg,  #87e0fd 0%, #53cbf1 40%, #05abe0 100%);  /*FF3.6+ */\r\n            background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#87e0fd), color-stop(40%,#53cbf1), color-stop(100%,#05abe0));  /*Chrome,Safari4+ */\r\n            background: -webkit-linear-gradient(-45deg,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%);  /*Chrome10+,Safari5.1+*/ \r\n            background: -o-linear-gradient(-45deg,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%);  /*Opera 11.10+ */\r\n            background: -ms-linear-gradient(-45deg,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%);  /*IE10+ */\r\n            background: linear-gradient(135deg,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%);  /*W3C */\r\n            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#05abe0',GradientType=1 );  /*IE6-9 fallback on horizontal gradient */\r\n\r\n            -moz-border-radius: 10px 40px 10px 40px;\r\n            border-radius: 10px 40px 10px 40px;\r\n        }\r\n        \r\n        .section-header .text {\r\n            float:left;\r\n            margin-top:4px;\r\n            margin-left:25px;\r\n            font-size:27px;\r\n        }\r\n        \r\n        .listing {\r\n            float:left;\r\n            width:950px;\r\n            margin-left:5x;\r\n            margin-top:5px;\r\n        }\r\n        \r\n        .listing .about-me {\r\n            float:left;\r\n            width:100%;\r\n            margin:5px;\r\n        }\r\n        \r\n        .listing .title {\r\n            float:left;\r\n            width:950px;\r\n            font-weight:bold;\r\n        }\r\n        \r\n        .listing .description {\r\n            float:left;\r\n            width:950px;\r\n            text-decoration:underline;\r\n            color:#444;\r\n        }       \r\n        \r\n        .listing .date {\r\n            position:relative;\r\n            width:200px;\r\n            height:0px;\r\n            top:-18px;\r\n            left:750px;\r\n            text-align:right;\r\n            font-style:italic;\r\n            color:#444;\r\n        }\r\n        \r\n        .listing .bullets {\r\n            margin: 0px;\r\n        }\r\n        \r\n        .listing .bullets .bullet {\r\n            margin-left:5px;\r\n        }\r\n        \r\n        .footer {\r\n            float:left;\r\n            dispaly:block;\r\n            height:50px;\r\n            width:100%;\r\n        }\r\n        \r\n    "
+            }, 
+            "type": "style"
+        }, 
+        {
+            "content": {
+                "content": [
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "attrs": {
+                                        "src": "img/me.jpeg"
+                                    }, 
+                                    "type": "img"
+                                }, 
+                                "css": "picture"
+                            }, 
+                            {
+                                "content": [
+                                    {
+                                        "content": {
+                                            "text": "Kenny Cason"
+                                        }, 
+                                        "css": "name"
+                                    }, 
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "Software Engineer "
+                                            }, 
+                                            {
+                                                "text": "&"
+                                            }
+                                        ], 
+                                        "css": "title"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "text": "479-387-2446"
+                                        }, 
+                                        "css": "phone"
+                                    }, 
+                                    {
+                                        "content": [
+                                            {
+                                                "text": "\r\n                        4170 N. Beech Creek Way #306"
+                                            }, 
+                                            {
+                                                "type": "br"
+                                            }
+                                        ], 
+                                        "css": "address"
+                                    }
+                                ], 
+                                "css": "bio"
+                            }, 
+                            {
+                                "content": [
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "mailto:kenneth.cason@gmail.com", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/email.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "kenneth.cason@gmail.com"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "https://github.com/kennycason", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/github2.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "github.com/kennycason"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "https://www.facebook.com/kenny.cason", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/fb.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "facebook.com/kenny.cason"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "https://twitter.com/kenny_cason", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/twitter.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "twitter.com/kenny_cason"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "http://gplus.to/kennethcason", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/gplus.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "gplus.to/kennethcason"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "attrs": {
+                                                "href": "http://www.linkedin.com/profile/view?id=28727043", 
+                                                "target": "_blank"
+                                            }, 
+                                            "content": [
+                                                {
+                                                    "attrs": {
+                                                        "src": "img/linkedin.png"
+                                                    }, 
+                                                    "type": "img"
+                                                }, 
+                                                {
+                                                    "content": {
+                                                        "text": "linkedin.com/profile/view?id=28727043"
+                                                    }, 
+                                                    "css": "text"
+                                                }
+                                            ], 
+                                            "type": "a"
+                                        }, 
+                                        "css": "social-item"
+                                    }
+                                ], 
+                                "css": "social"
+                            }
+                        ], 
+                        "css": "header"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "About Me"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "\r\n                    I like to constantly learn and enjoy being around other enthusiastic people who take pride in their field. \r\n                    I enjoy applying computer science to problems in various fields. \r\n                    Particularly, I enjoy studying machine learning, game development, and natural language processing. \r\n                "
+                            }, 
+                            "css": "about-me"
+                        }, 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Professional Experience"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "TTAGG, Inc."
+                                }, 
+                                "css": "title"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Chief Software Engineer - Co-founder"
+                                }, 
+                                "css": "description"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2010 - Present"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "content": [
+                                        {
+                                            "text": " - Our software measures and records social trend data on the web for usage in stock prediction and business intelligence. "
+                                        }, 
+                                        {
+                                            "attrs": {
+                                                "href": "https://ttagg.com"
+                                            }, 
+                                            "content": {
+                                                "text": "https://ttagg.com"
+                                            }, 
+                                            "type": "a"
+                                        }
+                                    ], 
+                                    "css": "bullet"
+                                }, 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "Lockheed Martin, Missile Defense National Team B (Crystal City, VA)"
+                                }, 
+                                "css": "title"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Software Engineer (entry level)"
+                                }, 
+                                "css": "description"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Jun 2010 - Aug 2011"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "content": {
+                                        "text": " - Develop and deploy software to test functionality of key components within Global Engagement Manager (GEM) Software in Java 1.6."
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "Software Engineer (internship)"
+                                }, 
+                                "css": "description"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "May - Aug 2009"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "content": {
+                                        "text": " - Developed and deployed software to test functionality of key components within GEM Software in Java 1.5."
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "Systems Testing/Analysis (internship)"
+                                }, 
+                                "css": "description"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "May - Aug 2008"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": [
+                                    {
+                                        "content": {
+                                            "text": " - Developed Unix scripts to assist in the testing of GEM software using sh, awk, groovy, and other common Unix tools."
+                                        }, 
+                                        "css": "bullet"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "text": " - Employ integration tests to ensure proper functionality of core components of GEM software."
+                                        }, 
+                                        "css": "bullet"
+                                    }
+                                ], 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "Software Engineer (internship)"
+                                }, 
+                                "css": "description"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "May - Aug 2007"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": [
+                                    {
+                                        "content": {
+                                            "text": " - Developed GEM software, intended to coordinate an automated response to a ballistic missile attack against the United States and allies."
+                                        }, 
+                                        "css": "bullet"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "text": " - Developed GEM software in Java 1.5 using Eclipse 3.2, on Windows and Solaris."
+                                        }, 
+                                        "css": "bullet"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "text": " - Employ test driven development (using JUnit), continuous integration (using CruiseControl and Ant), formal and informal peer reviews, metrics (Emma, JDepend, CheckStyle) and other contemporary software engineering practices."
+                                        }, 
+                                        "css": "bullet"
+                                    }
+                                ], 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Education/Activities"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "B.S., Computer Science University of Arkansas, (May 2010)"
+                                }, 
+                                "css": "school"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "May 2010"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Minor, Mathematics University of Arkansas"
+                                }, 
+                                "css": "school"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "May 2010"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Minor, Japanese Business University of Arkansas"
+                                }, 
+                                "css": "school"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2008"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Study Abroad, Osaka, Japan Kansai University of Foreign Languages. (\u95a2\u897f\u5916\u56fd\u8a9e\u5927\u5b66)"
+                                }, 
+                                "css": "school"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2007 - Apr 2008"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "attrs": {
+                                    "style": "font-style:italic; text-decoration:underline; color:#444"
+                                }, 
+                                "content": {
+                                    "text": "As an undergraduate at the University of Arkansas:"
+                                }, 
+                                "type": "span"
+                            }, 
+                            {
+                                "type": "br"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "University of Arkansas Game Development Club (UAGDC)"
+                                }, 
+                                "css": "title"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2004 - May 2010"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "content": {
+                                        "text": " - Developed computer game software as a member, and eventually president, of the UAGDC, using primarily C++ and various gaming libraries(allegro, SDL, Ogre3D) as well as Java and basic."
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                "css": "bullets"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Military Past and Present on Campus (MPPOC)"
+                                }, 
+                                "css": "title"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2004 - May 2010"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": {
+                                    "content": {
+                                        "text": " - Webmaster and officer, aided in rasing funds for veteran students on campus."
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Technical Proficiencies"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": {
+                            "content": [
+                                {
+                                    "content": {
+                                        "content": [
+                                            {
+                                                "text": "Platforms:"
+                                            }, 
+                                            {
+                                                "text": "UNIX, Windows"
+                                            }
+                                        ], 
+                                        "type": "b"
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                {
+                                    "content": {
+                                        "content": [
+                                            {
+                                                "text": "Languages:"
+                                            }, 
+                                            {
+                                                "text": "Java 1.5+, C/C++, Javascript(JQuery), PHP, HTML/CSS, Ruby on Rails 3, UNIX shell scripting, MatLab, Perl, MySQL,x86/68K Assembler (limited experience)."
+                                            }
+                                        ], 
+                                        "type": "b"
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                {
+                                    "content": {
+                                        "content": [
+                                            {
+                                                "text": "Tools:"
+                                            }, 
+                                            {
+                                                "text": "Git, SVN, Ant, Maven, Spring, Antlr 4, Hadoop(HBase, Map/Reduce, HDFS), JUnit, EasyMock, Eclipse, Netbeans, IBM Rational (ClearQuest, ClearCase), CruiseControl"
+                                            }
+                                        ], 
+                                        "type": "b"
+                                    }, 
+                                    "css": "bullet"
+                                }
+                            ], 
+                            "css": "bullets"
+                        }, 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Language Proficiencies"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": {
+                            "content": [
+                                {
+                                    "content": {
+                                        "content": [
+                                            {
+                                                "text": "Japanese:"
+                                            }, 
+                                            {
+                                                "text": " High Proficiency. Preparing to take highest level proficiency exam (\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13\u4e00\u7d1a). Skills with business Japanese, including honorifics systems (\u656c\u8a9e)."
+                                            }
+                                        ], 
+                                        "type": "b"
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                {
+                                    "content": {
+                                        "content": [
+                                            {
+                                                "text": "Mandarin Chinese:"
+                                            }, 
+                                            {
+                                                "text": " Proficient. Preparing to take the mid-level Proficiency test. (\u4e2d\u56fd\u6c49\u8bed\u6c34\u5e73\u8003\u8bd5(HSK)\u4e2d\u7ea7)"
+                                            }
+                                        ], 
+                                        "type": "b"
+                                    }, 
+                                    "css": "bullet"
+                                }
+                            ], 
+                            "css": "bullets"
+                        }, 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Military Experience"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": [
+                            {
+                                "content": {
+                                    "text": "United States Marine Corps Reserve (USCMR)"
+                                }, 
+                                "css": "title"
+                            }, 
+                            {
+                                "content": {
+                                    "text": "Aug 2004 - 2007"
+                                }, 
+                                "css": "date"
+                            }, 
+                            {
+                                "content": [
+                                    {
+                                        "content": {
+                                            "text": " - Small Arms Repair Technician School (Armory School)"
+                                        }, 
+                                        "css": "bullet"
+                                    }, 
+                                    {
+                                        "content": {
+                                            "text": " - Job Responsibilities - security and maintenance to ordnance, ensure operational safety by teaching classes to other Marines while maintaining a SECRET CLEARANCE."
+                                        }, 
+                                        "css": "bullet"
+                                    }
+                                ], 
+                                "css": "bullets"
+                            }
+                        ], 
+                        "css": "listing"
+                    }, 
+                    {
+                        "content": {
+                            "content": {
+                                "text": "Honors, Awards, and Other Achievements"
+                            }, 
+                            "css": "text"
+                        }, 
+                        "css": "section-header"
+                    }, 
+                    {
+                        "content": {
+                            "content": [
+                                {
+                                    "content": {
+                                        "text": " - Chinese Speech Contest - (Advanced Business) \u2013 3rd Place (2010), (Elementary) - 1st Place (2006)"
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                {
+                                    "content": {
+                                        "text": " - Japanese Speech Contest - Runner Up (2005)"
+                                    }, 
+                                    "css": "bullet"
+                                }, 
+                                {
+                                    "content": {
+                                        "text": " - Meritorious Mast. Top graduate of Armory School. USMCR (2005)"
+                                    }, 
+                                    "css": "bullet"
+                                }
+                            ], 
+                            "css": "bullets"
+                        }, 
+                        "css": "listing"
+                    }
+                ], 
+                "css": "wrapper"
+            }, 
+            "type": "body"
+        }
+    ], 
+    "type": "html"
+}
