@@ -36,8 +36,6 @@ a:visited {
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-start;
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
     min-width: 360px;
 }
 
@@ -54,16 +52,12 @@ a:visited {
     display: flex;
     flex-flow: column nowrap;
     justify-content: flex-start;
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
 }
 
 .top-header .left-column .website-link {
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-start;
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
 }
 
 .top-header .left-column .website-link .full-name {
