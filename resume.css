@@ -113,6 +113,18 @@ a:visited {
     padding-right: 8px;
 }
 
+.experience .experience-photo {
+    margin-top: -5px;
+}
+
+.experience .experience-photo {
+    margin-top: -7px;
+}
+
+.experience .simply-measured.experience-photo {
+    margin-top: -15px;
+}
+
 .experience .name {
     font-weight: bold;
     font-size: 20px;
